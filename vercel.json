@@ -1,6 +1,5 @@
 {
-  "rootDirectory": "cozy-cat-pomodorotimer",
   "framework": null,
   "buildCommand": null,
-  "outputDirectory": "."
+  "outputDirectory": "cozy-cat-pomodorotimer"
 }
